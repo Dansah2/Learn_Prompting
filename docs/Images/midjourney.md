@@ -138,7 +138,7 @@ Example: `astronaut on a horse --c20` and `astronaut on a horse --c 80`
 
 ### Quality:
 
-`--q [value]` defines how much time will be spend generating the image, thus increasing the quality. The default setting is "1". Higher values use more of your subscription's GPU minutes (accepts values ".25", ".5" , "1" and "2")
+`--q [value]` defines how much time will be spent generating the image, thus increasing the quality. The default setting is "1". Higher values use more of your subscription's GPU minutes (accepts values ".25", ".5" , "1" and "2")
 
 Example: `astronaut on a horse --q .5` and `astronaut on a horse --q 2`
 
